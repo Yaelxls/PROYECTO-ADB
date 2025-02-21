@@ -1,0 +1,10 @@
+C:\Users\landa\RiderProjects\PROYECTO-ADB\bin\Debug\SakilaAplicacion.exe.config
+C:\Users\landa\RiderProjects\PROYECTO-ADB\bin\Debug\SakilaAplicacion.exe
+C:\Users\landa\RiderProjects\PROYECTO-ADB\bin\Debug\SakilaAplicacion.pdb
+C:\Users\landa\RiderProjects\PROYECTO-ADB\obj\Debug\SakilaAplicacion.csproj.AssemblyReference.cache
+C:\Users\landa\RiderProjects\PROYECTO-ADB\obj\Debug\SakilaAplicacion.Form1.resources
+C:\Users\landa\RiderProjects\PROYECTO-ADB\obj\Debug\SakilaAplicacion.Properties.Resources.resources
+C:\Users\landa\RiderProjects\PROYECTO-ADB\obj\Debug\SakilaAplicacion.csproj.GenerateResource.cache
+C:\Users\landa\RiderProjects\PROYECTO-ADB\obj\Debug\SakilaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\landa\RiderProjects\PROYECTO-ADB\obj\Debug\SakilaAplicacion.exe
+C:\Users\landa\RiderProjects\PROYECTO-ADB\obj\Debug\SakilaAplicacion.pdb

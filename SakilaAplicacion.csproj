@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ejemplo git.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ejemplo git.Designer.cs">
+      <DependentUpon>ejemplo git.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
